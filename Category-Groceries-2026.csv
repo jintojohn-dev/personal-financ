@@ -1,0 +1,53 @@
+Date,Store,Description,Amount,Payment Method,Notes
+2026-01-05,Whole Foods,Weekly groceries,156.42,Credit Card,Fresh produce and dairy
+2026-01-12,Trader Joe's,Weekly groceries,98.73,Debit Card,Pantry staples
+2026-01-19,Safeway,Weekly groceries,142.35,Credit Card,Meat and vegetables
+2026-01-26,Whole Foods,Weekly groceries,167.89,Credit Card,Organic items
+2026-02-02,Costco,Bulk shopping,234.56,Credit Card,Monthly bulk items
+2026-02-09,Trader Joe's,Weekly groceries,87.45,Debit Card,Snacks and beverages
+2026-02-16,Whole Foods,Weekly groceries,153.21,Credit Card,Fresh produce
+2026-02-23,Safeway,Weekly groceries,129.67,Credit Card,General groceries
+2026-03-02,Trader Joe's,Weekly groceries,94.82,Debit Card,Frozen items
+2026-03-09,Whole Foods,Weekly groceries,178.34,Credit Card,Special items for dinner party
+2026-03-16,Safeway,Weekly groceries,136.45,Credit Card,Weekly essentials
+2026-03-23,Costco,Bulk shopping,289.12,Credit Card,Quarterly bulk purchase
+2026-03-30,Trader Joe's,Weekly groceries,91.56,Debit Card,Standard groceries
+2026-04-06,Whole Foods,Weekly groceries,145.78,Credit Card,Fresh produce
+2026-04-13,Safeway,Weekly groceries,118.93,Credit Card,Weekly shopping
+2026-04-20,Trader Joe's,Weekly groceries,102.34,Debit Card,Specialty items
+2026-04-27,Whole Foods,Weekly groceries,159.87,Credit Card,Organic produce
+2026-05-04,Safeway,Weekly groceries,134.56,Credit Card,General groceries
+2026-05-11,Costco,Bulk shopping,267.89,Credit Card,Bulk items
+2026-05-18,Trader Joe's,Weekly groceries,88.45,Debit Card,Quick shopping
+2026-05-25,Whole Foods,Weekly groceries,172.34,Credit Card,BBQ supplies
+2026-06-01,Safeway,Weekly groceries,141.23,Credit Card,Summer produce
+2026-06-08,Trader Joe's,Weekly groceries,96.78,Debit Card,Weekly essentials
+2026-06-15,Whole Foods,Weekly groceries,168.45,Credit Card,Fresh items
+2026-06-22,Costco,Bulk shopping,298.67,Credit Card,Summer bulk shopping
+2026-06-29,Safeway,Weekly groceries,127.89,Credit Card,Weekly groceries
+2026-07-06,Trader Joe's,Weekly groceries,93.45,Debit Card,Standard shopping
+2026-07-13,Whole Foods,Weekly groceries,156.78,Credit Card,Fresh produce
+2026-07-20,Safeway,Weekly groceries,139.34,Credit Card,Weekly essentials
+2026-07-27,Trader Joe's,Weekly groceries,101.23,Debit Card,Quick shop
+2026-08-03,Whole Foods,Weekly groceries,164.56,Credit Card,Quality items
+2026-08-10,Costco,Bulk shopping,276.45,Credit Card,Bulk purchase
+2026-08-17,Safeway,Weekly groceries,132.78,Credit Card,Weekly shopping
+2026-08-24,Trader Joe's,Weekly groceries,89.67,Debit Card,Standard groceries
+2026-08-31,Whole Foods,Weekly groceries,171.34,Credit Card,Labor Day weekend
+2026-09-07,Safeway,Weekly groceries,145.89,Credit Card,Back to routine
+2026-09-14,Trader Joe's,Weekly groceries,97.45,Debit Card,Weekly essentials
+2026-09-21,Whole Foods,Weekly groceries,158.23,Credit Card,Fall produce
+2026-09-28,Costco,Bulk shopping,312.56,Credit Card,Quarterly bulk shopping
+2026-10-05,Safeway,Weekly groceries,128.45,Credit Card,Weekly groceries
+2026-10-12,Trader Joe's,Weekly groceries,94.78,Debit Card,Standard shopping
+2026-10-19,Whole Foods,Weekly groceries,166.89,Credit Card,Fresh items
+2026-10-26,Safeway,Weekly groceries,142.34,Credit Card,Halloween supplies
+2026-11-02,Trader Joe's,Weekly groceries,99.56,Debit Card,Weekly shopping
+2026-11-09,Costco,Bulk shopping,289.78,Credit Card,Pre-holiday bulk shopping
+2026-11-16,Whole Foods,Weekly groceries,187.45,Credit Card,Thanksgiving prep
+2026-11-23,Safeway,Thanksgiving shopping,234.67,Credit Card,Holiday meal ingredients
+2026-11-30,Trader Joe's,Weekly groceries,91.23,Debit Card,Post-holiday shopping
+2026-12-07,Whole Foods,Weekly groceries,173.56,Credit Card,Holiday baking supplies
+2026-12-14,Safeway,Weekly groceries,156.78,Credit Card,Weekly shopping
+2026-12-21,Costco,Holiday bulk shopping,345.89,Credit Card,Holiday party supplies
+2026-12-28,Trader Joe's,Weekly groceries,103.45,Debit Card,End of year shopping
